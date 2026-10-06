@@ -19,3 +19,4 @@ LegalEase leverages Generative AI to simplify creation of legal documents.
 pip install -r requirements.txt
 uvicorn main:app --reload
 streamlit run app.py
+
